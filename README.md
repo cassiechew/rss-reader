@@ -5,4 +5,4 @@ To pull these projects run
 ```
 meta git clone git@github.com:ryanchew3/rss-reader-app.git
 ```
-This should clone all relevant services.
+This should clone all relevant services. Refer to [here](https://www.npmjs.com/package/meta).
