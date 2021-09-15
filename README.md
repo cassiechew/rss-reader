@@ -26,9 +26,11 @@ Close additions:
 - Updating account information
 - Deleting feeds
 - Updating feeds
+
 A bit later:
 - Lost password tool
 - Additional account information
+
 Future-future (will probably lose interest or time):
 - Additional nonsense features like friend features
 - Sharing features
