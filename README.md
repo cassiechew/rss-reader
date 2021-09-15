@@ -7,6 +7,12 @@ meta git clone git@github.com:ryanchew3/rss-reader-app.git
 ```
 This should clone all relevant services. Refer to [here](https://www.npmjs.com/package/meta).
 
+## Relevant repos
+- [rss-reader-app](https://github.com/ryanchew3/rss-reader-app)
+- [rss-reader-fetcher](https://github.com/ryanchew3/rss-reader-fetcher)
+- [rss-reader-auth](https://github.com/ryanchew3/rss-reader-auth)
+- [rss-reader-gateway](https://github.com/ryanchew3/rss-reader-gateway)
+
 ## Current functionality
 - Register Users
 - Login & Logout
