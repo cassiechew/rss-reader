@@ -1,3 +1,8 @@
 {
-  "projects": {}
+  "projects": {
+    "rss-reader": "https://github.com/ryanchew3/rss-reader",
+    "rss-reader-fetcher": "https://github.com/ryanchew3/rss-reader-fetcher",
+    "rss-reader-auth": "https://github.com/ryanchew3/rss-reader-auth",
+    "rss-reader-gateway": "https://github.com/ryanchew3/rss-reader-gateway"
+  }
 }
